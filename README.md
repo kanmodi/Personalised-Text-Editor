@@ -1,3 +1,3 @@
 # Personalised-Text-Editor
-A simple text editor like notepad using Python.
-Has basic functionalities expected of a simple text editor – which includes the ability to – write something on the editor, save it and open and modify it whenever required. Designed the GUI using Tkinter.
+A simple notepad-like text editor built using Python.
+It has  basic functionalities expected of a simple text editor, such as the ability to write, save, open and modify it whenever required. Designed the GUI using Tkinter.
